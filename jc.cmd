@@ -1,0 +1,1 @@
+javac -Xplugin:OptimizationPlugin -cp target/javacplugin-1.0-SNAPSHOT.jar -d source/classes  source/com/etz/javac/HelloJavacPlugin.java
